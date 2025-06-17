@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xraywu-mcp-wegene-assistant-badge.png)](https://mseep.ai/app/xraywu-mcp-wegene-assistant)
+
 # wegene-assistant MCP server
 
 [![smithery badge](https://smithery.ai/badge/@xraywu/mcp-wegene-assistant)](https://smithery.ai/server/@xraywu/mcp-wegene-assistant)
